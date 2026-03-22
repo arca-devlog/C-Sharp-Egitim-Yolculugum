@@ -1,0 +1,24 @@
+<Solution>
+  <Project Path="Konu01Degiskenler/Konu01Degiskenler.csproj" />
+  <Project Path="Konu02TipDonusumleri/Konu02TipDonusumleri.csproj" Id="6117e864-d151-4a14-9d19-bdb9512e6658" />
+  <Project Path="Konu03Operatorler/Konu03Operatorler.csproj" Id="54218e29-931b-4bb7-9139-b431833d1c3e" />
+  <Project Path="Konu04KararYapilari/Konu04KararYapilari.csproj" Id="303a0a61-0f58-4c76-953b-dcd42212656b" />
+  <Project Path="Konu05Metotlar/Konu05Metotlar.csproj" Id="7a49a6f6-3993-434b-893e-52fb48f7eb74" />
+  <Project Path="Konu06Diziler/Konu06Diziler.csproj" Id="4dd5e67c-c5ff-4658-a28b-24ab5822110f" />
+  <Project Path="Konu07Donguler/Konu07Donguler.csproj" Id="cc382e5c-218c-41f5-8d9b-e93e0f1b56be" />
+  <Project Path="Konu08SiniflarClasses/Konu08SiniflarClasses.csproj" Id="8ac59103-d607-4eaf-9691-040b222d1795" />
+  <Project Path="Konu09StructYapilar/Konu09StructYapilar.csproj" Id="3eb6dbb3-9e6b-4d10-b377-1f4a3dd18372" />
+  <Project Path="Konu10StringSinifi/Konu10StringSinifi.csproj" Id="a9239d98-2527-454d-9a69-f5570a6c4ba1" />
+  <Project Path="Konu11Enumlar/Konu11Enumlar.csproj" Id="216270ab-6573-4518-bf99-2359afbdde38" />
+  <Project Path="Konu12KalitimInheritance/Konu12KalitimInheritance.csproj" Id="9381120f-34d3-433b-983b-8d53fa614f9a" />
+  <Project Path="Konu13KapsullemeEncapsulation/Konu13KapsullemeEncapsulation.csproj" Id="9ff2b670-f098-45f0-b36c-c5302699b88f" />
+  <Project Path="Konu14InterfacesArayuzler/Konu14InterfacesArayuzler.csproj" Id="03f6287f-6bf5-480a-a2e8-a1652b5ae349" />
+  <Project Path="Konu15AbstractClasses/Konu15AbstractClasses.csproj" Id="61b469a0-3913-4867-af9d-5ef88a87e6ff" />
+  <Project Path="Konu16CollectionsKoleksiyonlar/Konu16CollectionsKoleksiyonlar.csproj" Id="11abc4fa-b096-4914-b537-2786df8d35c4" />
+  <Project Path="Konu17HataYonetimi/Konu17HataYonetimi.csproj" Id="60b20c14-1d7b-4ea2-b333-481cc22ac860" />
+  <Project Path="Konu18SOLIDPrensipleri/Konu18SOLIDPrensipleri.csproj" Id="240cad9f-848c-4263-9274-b5fae246bcad" />
+  <Project Path="WebEgitimi/WebEgitimi.csproj" Id="8555d1a0-26e3-4bfb-8dc6-1497e7d46139" />
+  <Project Path="WindowsFormsAppAdoNetCRUD/WindowsFormsAppAdoNetCRUD.csproj" Id="8687350e-da9a-4bac-99b6-58f316623156" />
+  <Project Path="WindowsFormsAppEntityFrameworkCRUD/WindowsFormsAppEntityFrameworkCRUD.csproj" Id="5902f1d2-821b-4074-85ac-ecee6a832480" />
+  <Project Path="WindowsFormsEgitimi/WindowsFormsEgitimi.csproj" Id="b240f1e6-dcb3-4934-8145-a2c82dd95634" />
+</Solution>
